@@ -1,6 +1,6 @@
 <?php
 // ======================================================================
-// HOMEPAGE - v6.1 (Final with Footer Social Links)
+// HOMEPAGE - v6.1
 // ======================================================================
 // --- DB & CONFIG ---
 define('DB_HOST', 'localhost'); define('DB_USER', 'bookshel_a1'); define('DB_PASS', 'bookshel_a1'); define('DB_NAME', 'bookshel_a1'); define('UPLOAD_DIR', 'Uploads/');
@@ -98,4 +98,5 @@ $popular_posts = $pdo->query("SELECT title, slug FROM posts ORDER BY view_count 
 </footer>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
+
 </html>
