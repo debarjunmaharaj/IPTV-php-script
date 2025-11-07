@@ -1,6 +1,6 @@
 <?php
 // ======================================================================
-// ADMIN PANEL - v5.0 (Final with SEO & Custom Slugs)
+// ADMIN PANEL - v5.0 
 // ======================================================================
 session_start();
 // --- Config & DB ---
@@ -146,4 +146,5 @@ if ($action === 'delete') { $table = $_GET['type']; if(in_array($table, ['posts'
 </div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
+
 </html>
