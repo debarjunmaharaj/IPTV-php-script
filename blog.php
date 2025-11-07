@@ -1,6 +1,6 @@
 <?php
 // ======================================================================
-// BLOG POST PAGE - v6.1 (Final with Footer Social Links)
+// BLOG POST PAGE
 // ======================================================================
 // --- DB & FUNCTIONS ---
 define('DB_HOST', 'localhost'); define('DB_USER', 'bookshel_a1'); define('DB_PASS', 'bookshel_a1'); define('DB_NAME', 'bookshel_a1'); define('UPLOAD_DIR', 'Uploads/');
@@ -62,4 +62,5 @@ $og_title = htmlspecialchars($post['title']); $og_description = htmlspecialchars
 </footer>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
+
 </html>
