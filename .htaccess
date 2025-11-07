@@ -1,0 +1,16 @@
+# .htaccess (Final Version for Root-Level Slugs)
+
+# Turn on the URL rewriting engine
+RewriteEngine On
+
+# Set the base directory to your project's root
+RewriteBase /
+
+# Rule 1: Do not apply rules to existing files
+RewriteCond %{REQUEST_FILENAME} !-f
+# Rule 2: Do not apply rules to existing directories
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Rule 3: Rewrite any other request to blog.php to handle the slug
+# Example: yourdomain.com/my-post-title -> yourdomain.com/blog.php?slug=my-post-title
+RewriteRule ^([a-zA-Z0-9-]+)/?$ blog.php?slug=$1 [L,QSA]

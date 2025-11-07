@@ -1,0 +1,121 @@
+[17-Jun-2025 05:28:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''5'' at line 1 in /home/bookshel/public_html/dm/index.php:31
+Stack trace:
+#0 /home/bookshel/public_html/dm/index.php(31): PDOStatement->execute(Array)
+#1 /home/bookshel/public_html/dm/index.php(110): get_posts_by_category(Object(PDO), 1, 5)
+#2 {main}
+  thrown in /home/bookshel/public_html/dm/index.php on line 31
+[17-Jun-2025 05:39:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''5'' at line 1 in /home/bookshel/public_html/dm/index.php:31
+Stack trace:
+#0 /home/bookshel/public_html/dm/index.php(31): PDOStatement->execute(Array)
+#1 /home/bookshel/public_html/dm/index.php(110): get_posts_by_category(Object(PDO), 1, 5)
+#2 {main}
+  thrown in /home/bookshel/public_html/dm/index.php on line 31
+[17-Jun-2025 05:39:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''5'' at line 1 in /home/bookshel/public_html/dm/index.php:31
+Stack trace:
+#0 /home/bookshel/public_html/dm/index.php(31): PDOStatement->execute(Array)
+#1 /home/bookshel/public_html/dm/index.php(110): get_posts_by_category(Object(PDO), 1, 5)
+#2 {main}
+  thrown in /home/bookshel/public_html/dm/index.php on line 31
+[17-Jun-2025 05:39:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''5'' at line 1 in /home/bookshel/public_html/dm/index.php:31
+Stack trace:
+#0 /home/bookshel/public_html/dm/index.php(31): PDOStatement->execute(Array)
+#1 /home/bookshel/public_html/dm/index.php(110): get_posts_by_category(Object(PDO), 1, 5)
+#2 {main}
+  thrown in /home/bookshel/public_html/dm/index.php on line 31
+[17-Jun-2025 05:39:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''5'' at line 1 in /home/bookshel/public_html/dm/index.php:31
+Stack trace:
+#0 /home/bookshel/public_html/dm/index.php(31): PDOStatement->execute(Array)
+#1 /home/bookshel/public_html/dm/index.php(110): get_posts_by_category(Object(PDO), 1, 5)
+#2 {main}
+  thrown in /home/bookshel/public_html/dm/index.php on line 31
+[17-Jun-2025 05:39:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''5'' at line 1 in /home/bookshel/public_html/dm/index.php:31
+Stack trace:
+#0 /home/bookshel/public_html/dm/index.php(31): PDOStatement->execute(Array)
+#1 /home/bookshel/public_html/dm/index.php(110): get_posts_by_category(Object(PDO), 1, 5)
+#2 {main}
+  thrown in /home/bookshel/public_html/dm/index.php on line 31
+[17-Jun-2025 05:39:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''5'' at line 1 in /home/bookshel/public_html/dm/index.php:31
+Stack trace:
+#0 /home/bookshel/public_html/dm/index.php(31): PDOStatement->execute(Array)
+#1 /home/bookshel/public_html/dm/index.php(110): get_posts_by_category(Object(PDO), 1, 5)
+#2 {main}
+  thrown in /home/bookshel/public_html/dm/index.php on line 31
+[17-Jun-2025 05:40:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''5'' at line 1 in /home/bookshel/public_html/dm/index.php:31
+Stack trace:
+#0 /home/bookshel/public_html/dm/index.php(31): PDOStatement->execute(Array)
+#1 /home/bookshel/public_html/dm/index.php(110): get_posts_by_category(Object(PDO), 1, 5)
+#2 {main}
+  thrown in /home/bookshel/public_html/dm/index.php on line 31
+[17-Jun-2025 05:41:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''5'' at line 1 in /home/bookshel/public_html/dm/index.php:31
+Stack trace:
+#0 /home/bookshel/public_html/dm/index.php(31): PDOStatement->execute(Array)
+#1 /home/bookshel/public_html/dm/index.php(110): get_posts_by_category(Object(PDO), 1, 5)
+#2 {main}
+  thrown in /home/bookshel/public_html/dm/index.php on line 31
+[17-Jun-2025 05:44:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''5'' at line 1 in /home/bookshel/public_html/dm/index.php:31
+Stack trace:
+#0 /home/bookshel/public_html/dm/index.php(31): PDOStatement->execute(Array)
+#1 /home/bookshel/public_html/dm/index.php(110): get_posts_by_category(Object(PDO), 1, 5)
+#2 {main}
+  thrown in /home/bookshel/public_html/dm/index.php on line 31
+[17-Jun-2025 05:44:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''5'' at line 1 in /home/bookshel/public_html/dm/index.php:31
+Stack trace:
+#0 /home/bookshel/public_html/dm/index.php(31): PDOStatement->execute(Array)
+#1 /home/bookshel/public_html/dm/index.php(110): get_posts_by_category(Object(PDO), 1, 5)
+#2 {main}
+  thrown in /home/bookshel/public_html/dm/index.php on line 31
+[17-Jun-2025 05:44:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''5'' at line 1 in /home/bookshel/public_html/dm/index.php:31
+Stack trace:
+#0 /home/bookshel/public_html/dm/index.php(31): PDOStatement->execute(Array)
+#1 /home/bookshel/public_html/dm/index.php(110): get_posts_by_category(Object(PDO), 1, 5)
+#2 {main}
+  thrown in /home/bookshel/public_html/dm/index.php on line 31
+[17-Jun-2025 05:44:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''5'' at line 1 in /home/bookshel/public_html/dm/index.php:31
+Stack trace:
+#0 /home/bookshel/public_html/dm/index.php(31): PDOStatement->execute(Array)
+#1 /home/bookshel/public_html/dm/index.php(110): get_posts_by_category(Object(PDO), 1, 5)
+#2 {main}
+  thrown in /home/bookshel/public_html/dm/index.php on line 31
+[17-Jun-2025 05:48:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''5'' at line 1 in /home/bookshel/public_html/dm/index.php:23
+Stack trace:
+#0 /home/bookshel/public_html/dm/index.php(23): PDOStatement->execute(Array)
+#1 /home/bookshel/public_html/dm/index.php(115): get_posts_by_category(Object(PDO), 1, 5)
+#2 {main}
+  thrown in /home/bookshel/public_html/dm/index.php on line 23
+[17-Jun-2025 05:48:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''5'' at line 1 in /home/bookshel/public_html/dm/index.php:23
+Stack trace:
+#0 /home/bookshel/public_html/dm/index.php(23): PDOStatement->execute(Array)
+#1 /home/bookshel/public_html/dm/index.php(115): get_posts_by_category(Object(PDO), 1, 5)
+#2 {main}
+  thrown in /home/bookshel/public_html/dm/index.php on line 23
+[17-Jun-2025 05:52:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''5'' at line 1 in /home/bookshel/public_html/dm/index.php:23
+Stack trace:
+#0 /home/bookshel/public_html/dm/index.php(23): PDOStatement->execute(Array)
+#1 /home/bookshel/public_html/dm/index.php(115): get_posts_by_category(Object(PDO), 1, 5)
+#2 {main}
+  thrown in /home/bookshel/public_html/dm/index.php on line 23
+[17-Jun-2025 06:01:00 UTC] PHP Warning:  require_once(admin_pages/posts.php): Failed to open stream: No such file or directory in /home/bookshel/public_html/dm/admin.php on line 66
+[17-Jun-2025 06:01:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'admin_pages/posts.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/bookshel/public_html/dm/admin.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/bookshel/public_html/dm/admin.php on line 66
+[17-Jun-2025 06:20:36 UTC] PHP Warning:  require_once(admin_pages/posts.php): Failed to open stream: No such file or directory in /home/bookshel/public_html/dm/admin.php on line 66
+[17-Jun-2025 06:20:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'admin_pages/posts.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/bookshel/public_html/dm/admin.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/bookshel/public_html/dm/admin.php on line 66
+[17-Jun-2025 06:20:39 UTC] PHP Warning:  require_once(admin_pages/posts.php): Failed to open stream: No such file or directory in /home/bookshel/public_html/dm/admin.php on line 66
+[17-Jun-2025 06:20:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'admin_pages/posts.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/bookshel/public_html/dm/admin.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/bookshel/public_html/dm/admin.php on line 66
+[17-Jun-2025 06:20:42 UTC] PHP Warning:  require_once(admin_pages/posts.php): Failed to open stream: No such file or directory in /home/bookshel/public_html/dm/admin.php on line 66
+[17-Jun-2025 06:20:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'admin_pages/posts.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/bookshel/public_html/dm/admin.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/bookshel/public_html/dm/admin.php on line 66
+[17-Jun-2025 06:20:44 UTC] PHP Warning:  require_once(admin_pages/posts.php): Failed to open stream: No such file or directory in /home/bookshel/public_html/dm/admin.php on line 66
+[17-Jun-2025 06:20:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'admin_pages/posts.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/bookshel/public_html/dm/admin.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/bookshel/public_html/dm/admin.php on line 66

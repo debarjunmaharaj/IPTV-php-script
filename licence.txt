@@ -1,0 +1,71 @@
+================================================================================
+SOFTWARE LICENSE AGREEMENT
+================================================================================
+
+This is a legal agreement between you (the "Licensee") and Netfie (the "Licensor") for the use of the software product identified below. By purchasing, installing, or using this script, you agree to be bound by the terms and conditions of this license.
+
+--------------------------------------------------------------------------------
+PRODUCT INFORMATION
+--------------------------------------------------------------------------------
+
+Product Name: TV Channel - IPTV News & Video Portal PHP Script
+Author: Debarjun Chakraborty
+Company: Netfie
+Website: https://www.netfie.com
+
+--------------------------------------------------------------------------------
+LICENSE TERMS
+--------------------------------------------------------------------------------
+
+License Fee: $30 USD (One-Time Payment for Lifetime Use)
+License Type: Regular License
+
+1. GRANT OF LICENSE
+--------------------
+Upon payment of the license fee, Netfie grants you a perpetual, non-exclusive, non-transferable license to use the script under the following conditions:
+
+*   You are permitted to use the script on **ONE SINGLE DOMAIN** to create **ONE SINGLE END PRODUCT**. An end product is a customized implementation of the script on a live website.
+
+*   You are permitted to modify the source code to fit your requirements for the single end product. All modifications remain subject to this license agreement.
+
+*   You are permitted to use the script for a client project, provided the client is made aware of these license terms and the end product is for a single website.
+
+
+2. RESTRICTIONS
+----------------
+You are EXPRESSLY PROHIBITED from doing the following:
+
+*   You may NOT resell, redistribute, share, or transfer the script or any of its source code, either in its original form or in a modified form, on any marketplace or by any other means.
+
+*   You may NOT use the script on more than one domain without purchasing a separate license for each additional domain.
+
+*   You may NOT use the script, or parts of the script, to create a competing product, a stock item, a generator, or a "Software as a Service" (SaaS) application where users can pay to access the functionality of the script.
+
+*   You may NOT remove, alter, or obscure any copyright notices or author information present within the code files.
+
+
+3. WARRANTY AND DISCLAIMER
+---------------------------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+Netfie does not guarantee that the script will work in all server environments or with all versions of third-party software.
+
+
+4. LIMITATION OF LIABILITY
+---------------------------
+IN NO EVENT SHALL NETFIE OR DEBARJUN CHAKRABORTY BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+The Licensor's total liability under this agreement will be limited to the amount you paid for the script.
+
+
+5. TERMINATION
+----------------
+This license is effective until terminated. This license will terminate automatically without notice from Netfie if you fail to comply with any of its provisions. Upon termination, you must immediately cease all use of the script and destroy all copies, full or partial, of the script.
+
+
+--------------------------------------------------------------------------------
+
+Thank you for choosing our product. For support, please contact us through the marketplace where you purchased this script or visit our website.
+
+Copyright (c) 2025 Netfie (www.netfie.com)
+All Rights Reserved.
